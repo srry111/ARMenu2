@@ -1,0 +1,1 @@
+include ':app', ':EasyAR', ':ArJpctBaseLib', ':jpct_ae', ':ArJpctBaseLib-debug'

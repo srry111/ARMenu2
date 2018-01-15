@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/viewfavour"
+            android:icon="@drawable/icon_fav"
+            android:title="Favourite"
+
+            />
+        <item
+            android:id="@+id/disher"
+            android:icon="@drawable/ic_dish"
+            android:title="Disher"
+            />
+
+        <item
+            android:id="@+id/soup"
+            android:icon="@drawable/ic_soup"
+            android:title="Soup" />
+        <item
+            android:id="@+id/fastfood"
+            android:icon="@drawable/ic_fast_food"
+            android:title="Fast food" />
+        <item
+            android:id="@+id/beverage"
+            android:icon="@drawable/ic_drink"
+            android:title="Beverage" />
+        <item
+            android:id="@+id/dessert"
+            android:icon="@drawable/ic_dessert"
+            android:title="Dessert" />
+        <item
+            android:id="@+id/Logout"
+            android:icon="@drawable/ic_logout_app_black_24dp"
+            android:title="Logout" />
+        <item
+            android:id="@+id/viewlocation"
+            android:title="ViewLocation"
+            />
+
+
+    </group>
+
+</menu>
+

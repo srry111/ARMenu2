@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ARMenu.iml" filepath="$PROJECT_DIR$/ARMenu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArJpctBaseLib/ArJpctBaseLib.iml" filepath="$PROJECT_DIR$/ArJpctBaseLib/ArJpctBaseLib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArJpctBaseLib-debug/ArJpctBaseLib-debug.iml" filepath="$PROJECT_DIR$/ArJpctBaseLib-debug/ArJpctBaseLib-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EasyAR/EasyAR.iml" filepath="$PROJECT_DIR$/EasyAR/EasyAR.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpct_ae/jpct_ae.iml" filepath="$PROJECT_DIR$/jpct_ae/jpct_ae.iml" />
+    </modules>
+  </component>
+</project>
